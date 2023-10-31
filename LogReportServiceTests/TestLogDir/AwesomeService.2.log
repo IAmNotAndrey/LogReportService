@@ -1,0 +1,2 @@
+﻿[01.10.2023 12:00:00.813][Warning][RequestHandler] Request #3 with 8 items received from user user3@example.com
+[01.10.2023 12:00:01.119][Error][RequestPayloadProcessor] Request #3 failed due to an error

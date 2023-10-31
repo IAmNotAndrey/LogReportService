@@ -1,0 +1,2 @@
+﻿[01.10.2023 12:00:00.813][Error][RequestHandler] Request #7 with 9 items received from user user7@example.com
+[01.10.2023 12:00:01.119][Warning][RequestPayloadProcessor] Request #7 contains unsupported items

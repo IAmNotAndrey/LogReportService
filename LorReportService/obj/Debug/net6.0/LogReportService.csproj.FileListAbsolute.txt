@@ -1,0 +1,30 @@
+D:\Program Files\personal_programmes\LorReportService\LorReportService\bin\Debug\net6.0\LogReportService.exe
+D:\Program Files\personal_programmes\LorReportService\LorReportService\bin\Debug\net6.0\LogReportService.deps.json
+D:\Program Files\personal_programmes\LorReportService\LorReportService\bin\Debug\net6.0\LogReportService.runtimeconfig.json
+D:\Program Files\personal_programmes\LorReportService\LorReportService\bin\Debug\net6.0\LogReportService.dll
+D:\Program Files\personal_programmes\LorReportService\LorReportService\bin\Debug\net6.0\LogReportService.pdb
+D:\Program Files\personal_programmes\LorReportService\LorReportService\obj\Debug\net6.0\LogReportService.csproj.AssemblyReference.cache
+D:\Program Files\personal_programmes\LorReportService\LorReportService\obj\Debug\net6.0\LogReportService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\personal_programmes\LorReportService\LorReportService\obj\Debug\net6.0\LogReportService.AssemblyInfoInputs.cache
+D:\Program Files\personal_programmes\LorReportService\LorReportService\obj\Debug\net6.0\LogReportService.AssemblyInfo.cs
+D:\Program Files\personal_programmes\LorReportService\LorReportService\obj\Debug\net6.0\LogReportService.csproj.CoreCompileInputs.cache
+D:\Program Files\personal_programmes\LorReportService\LorReportService\obj\Debug\net6.0\LogReportService.dll
+D:\Program Files\personal_programmes\LorReportService\LorReportService\obj\Debug\net6.0\refint\LogReportService.dll
+D:\Program Files\personal_programmes\LorReportService\LorReportService\obj\Debug\net6.0\LogReportService.pdb
+D:\Program Files\personal_programmes\LorReportService\LorReportService\obj\Debug\net6.0\LogReportService.genruntimeconfig.cache
+D:\Program Files\personal_programmes\LorReportService\LorReportService\obj\Debug\net6.0\ref\LogReportService.dll
+D:\GitHub\LogReportService\LorReportService\bin\Debug\net6.0\LogReportService.exe
+D:\GitHub\LogReportService\LorReportService\bin\Debug\net6.0\LogReportService.deps.json
+D:\GitHub\LogReportService\LorReportService\bin\Debug\net6.0\LogReportService.runtimeconfig.json
+D:\GitHub\LogReportService\LorReportService\bin\Debug\net6.0\LogReportService.dll
+D:\GitHub\LogReportService\LorReportService\bin\Debug\net6.0\LogReportService.pdb
+D:\GitHub\LogReportService\LorReportService\obj\Debug\net6.0\LogReportService.csproj.AssemblyReference.cache
+D:\GitHub\LogReportService\LorReportService\obj\Debug\net6.0\LogReportService.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\LogReportService\LorReportService\obj\Debug\net6.0\LogReportService.AssemblyInfoInputs.cache
+D:\GitHub\LogReportService\LorReportService\obj\Debug\net6.0\LogReportService.AssemblyInfo.cs
+D:\GitHub\LogReportService\LorReportService\obj\Debug\net6.0\LogReportService.csproj.CoreCompileInputs.cache
+D:\GitHub\LogReportService\LorReportService\obj\Debug\net6.0\LogReportService.dll
+D:\GitHub\LogReportService\LorReportService\obj\Debug\net6.0\refint\LogReportService.dll
+D:\GitHub\LogReportService\LorReportService\obj\Debug\net6.0\LogReportService.pdb
+D:\GitHub\LogReportService\LorReportService\obj\Debug\net6.0\LogReportService.genruntimeconfig.cache
+D:\GitHub\LogReportService\LorReportService\obj\Debug\net6.0\ref\LogReportService.dll

@@ -1,0 +1,3 @@
+﻿[01.10.2023 12:00:00.813][Info][RequestHandler] Request #1 with 10 items received from user user1@example.com
+[01.10.2023 12:00:01.119][Warning][RequestPayloadProcessor] Request #1 contains unsupported items
+[01.10.2023 12:00:02.325][Error][DatabaseConnection] Unable to connect to the database permandrey21@mail.ru
